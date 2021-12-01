@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 27,
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": "Horizon",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "obsidian"
+  ]
+}

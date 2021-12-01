@@ -1,0 +1,9 @@
+:root {
+    --font-size-normal: 19px;
+}
+
+.markdown-preview-view.clean-embeds .markdown-embed {
+    border: none;
+    margin: 0;
+    padding: 0;
+  }

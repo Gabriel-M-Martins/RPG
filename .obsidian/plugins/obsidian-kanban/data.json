@@ -1,0 +1,8 @@
+{
+  "show-checkboxes": false,
+  "date-format": "MM/DD",
+  "date-display-format": "MM/DD",
+  "show-relative-date": true,
+  "date-picker-week-start": 1,
+  "prepend-archive-format": "MM/DD HH:mm"
+}
