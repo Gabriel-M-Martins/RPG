@@ -5,16 +5,20 @@
       "path": "Ignorar/Monstros/Bullywug.md"
     },
     {
+      "basename": "Globin",
+      "path": "Ignorar/Monstros/Globin.md"
+    },
+    {
+      "basename": "Intro a dnd",
+      "path": "Ignorar/Intro a dnd.md"
+    },
+    {
       "basename": "Bullywug",
       "path": "Imagens/Bullywug/Bullywug.png"
     },
     {
       "basename": "BullywugSB",
       "path": "Imagens/Bullywug/BullywugSB.png"
-    },
-    {
-      "basename": "Intro a dnd",
-      "path": "Ignorar/Intro a dnd.md"
     },
     {
       "basename": "Começo",
