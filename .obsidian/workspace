@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ignorar/Intro a dnd.md",
+            "file": "Ignorar/Monstros/Bullywug.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ignorar/Intro a dnd.md",
+                "file": "Ignorar/Monstros/Bullywug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ignorar/Intro a dnd.md"
+                "file": "Ignorar/Monstros/Bullywug.md"
               }
             }
           }
@@ -125,6 +125,9 @@
   },
   "active": "72ced0dc2cb6e7fa",
   "lastOpenFiles": [
+    "Ignorar/Monstros/Bullywug.md",
+    "Imagens/Bullywug/Bullywug.png",
+    "Imagens/Bullywug/BullywugSB.png",
     "Ignorar/Intro a dnd.md",
     "Ignorar/Ideias/Começo.md",
     "Intro a dnd.md",
