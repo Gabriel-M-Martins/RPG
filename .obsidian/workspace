@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ignorar/Monstros/Bullywug.md",
-            "mode": "preview"
+            "file": "Ignorar/Ideias/Começo.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ignorar/Monstros/Bullywug.md",
+                "file": "Ignorar/Ideias/Começo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ignorar/Monstros/Bullywug.md"
+                "file": "Ignorar/Ideias/Começo.md"
               }
             }
           }
@@ -125,12 +125,12 @@
   },
   "active": "72ced0dc2cb6e7fa",
   "lastOpenFiles": [
-    "Ignorar/Monstros/Bullywug.md",
-    "Ignorar/Monstros/Globin.md",
+    "Ignorar/Ideias/Começo.md",
+    "Ignorar/Monstros/Goblins.md",
+    "Ignorar/Monstros/Bullywugs.md",
     "Ignorar/Intro a dnd.md",
     "Imagens/Bullywug/Bullywug.png",
     "Imagens/Bullywug/BullywugSB.png",
-    "Ignorar/Ideias/Começo.md",
     "Intro a dnd.md",
     "Ideias/Começo.md",
     "Ideias/Intro a dnd.md",
