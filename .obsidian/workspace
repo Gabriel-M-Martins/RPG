@@ -7,8 +7,11 @@
         "id": "72ced0dc2cb6e7fa",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Ignorar/Intro a dnd.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ignorar/Intro a dnd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ignorar/Intro a dnd.md"
+              }
             }
           }
         ]
@@ -119,6 +125,8 @@
   },
   "active": "72ced0dc2cb6e7fa",
   "lastOpenFiles": [
+    "Ignorar/Intro a dnd.md",
+    "Ignorar/Ideias/Começo.md",
     "Intro a dnd.md",
     "Ideias/Começo.md",
     "Ideias/Intro a dnd.md",
