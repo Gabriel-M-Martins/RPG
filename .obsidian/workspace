@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "551abfd6f619305c",
+        "id": "8d37bb21188d8bcc",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Ideias/Começo.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ideias/Começo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ideias/Começo.md"
+              }
             }
           }
         ]
@@ -117,6 +123,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "551abfd6f619305c",
-  "lastOpenFiles": []
+  "active": "8d37bb21188d8bcc",
+  "lastOpenFiles": [
+    "Ideias/Começo.md",
+    "'.md"
+  ]
 }
