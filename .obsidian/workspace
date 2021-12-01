@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8d37bb21188d8bcc",
+        "id": "72ced0dc2cb6e7fa",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ideias/Começo.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -84,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideias/Começo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ideias/Começo.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -123,9 +117,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8d37bb21188d8bcc",
+  "active": "72ced0dc2cb6e7fa",
   "lastOpenFiles": [
+    "Intro a dnd.md",
     "Ideias/Começo.md",
+    "Ideias/Intro a dnd.md",
     "'.md"
   ]
 }
